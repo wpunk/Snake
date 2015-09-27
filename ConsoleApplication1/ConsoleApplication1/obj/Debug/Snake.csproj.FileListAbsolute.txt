@@ -1,0 +1,6 @@
+C:\Users\Александр\Visual Studio\snake Kartavec\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Александр\Visual Studio\snake Kartavec\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Александр\Visual Studio\snake Kartavec\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Александр\Visual Studio\snake Kartavec\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Visual Studio\snake Kartavec\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Александр\Visual Studio\snake Kartavec\Snake\Snake\obj\Debug\Snake.pdb
