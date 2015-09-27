@@ -56,6 +56,8 @@ namespace ConsoleApplication1
             Console.Write(sym);
         }
 
+
+
         public void Clear()
         {
             sym = ' ';
@@ -65,6 +67,11 @@ namespace ConsoleApplication1
         public override string ToString()
         {
             return x + ", " + y + ", " + sym;
+        }
+
+        public bool IsHit(Point p)
+        {
+            return p.x == this.x && p.y == this.y;
         }
     }
 
