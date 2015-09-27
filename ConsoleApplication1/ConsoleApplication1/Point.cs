@@ -14,7 +14,6 @@ namespace ConsoleApplication1
 
         public Point()
         {
-
         }
 
         public Point(int _x, int _y, char _sym)
@@ -55,6 +54,12 @@ namespace ConsoleApplication1
         {
             Console.SetCursorPosition(x, y);
             Console.Write(sym);
+        }
+
+        public void Clear()
+        {
+            sym = ' ';
+            Draw();
         }
 
         public override string ToString()
