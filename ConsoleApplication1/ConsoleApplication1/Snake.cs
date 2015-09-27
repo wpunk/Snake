@@ -23,7 +23,7 @@ namespace ConsoleApplication1
             }
         }
 
-        public void Move()
+        internal void Move()
         {
             Point tail = pList.First();
             pList.Remove(tail);
